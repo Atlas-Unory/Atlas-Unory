@@ -23,21 +23,10 @@ I'm a computer scientist here in South America
 
 <section>
 <div aling="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Atlas-Unory&theme=tokyonight&hide_border=true)](https://git.io/streak-stats">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Atlas-Unory&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </div>
-
 <br>
 <div>
-
-</div>
-
-<br>
-<div>
-
-</div>
-
-<br>
-<div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=2077)
 </div>
 </section>
