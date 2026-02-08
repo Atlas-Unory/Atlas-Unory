@@ -21,6 +21,4 @@ I'm a computer scientist here in South America
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-<div align="center">
-  <img src="https://count.getloli.com/@:Atlas-Unory?theme=booru-lewd&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+
