@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 Hi living beins of this planet! 🙋
 
 I'm a computer scientist here in South America
+<img src="https://raw.githubusercontent.com/Atlas-Unory/Atlas-Unory/output/snake.svg" alt="Snake animation" />
