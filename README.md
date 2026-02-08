@@ -23,7 +23,7 @@ I'm a computer scientist here in South America
 
 <section>
 <div aling="center">
-<img src="https://imgur.com/gallery/witchy-desktop-wallpaper-iTEcKVP#D1tCsSQ.jpg">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Atlas-Unory&theme=tokyonight&hide_border=true)](https://git.io/streak-stats">
 </div>
 
 <br>
@@ -41,5 +41,3 @@ I'm a computer scientist here in South America
 
 </div>
 </section>
-
-![Atlas-Unory's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlas-Unory&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
