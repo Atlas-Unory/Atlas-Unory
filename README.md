@@ -18,10 +18,21 @@ Here are some ideas to get you started:
 Hi living beins of this planet! 🙋
 
 I'm a computer scientist here in South America
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atlas-Unory&theme=tokyonight) | :-: | | :-: | | :-: |
+
+
+
+
+
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 <br>
+<div align="center">
+
+</div>
+<br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
