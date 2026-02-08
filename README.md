@@ -14,12 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 Hi living beins of this planet! 🙋
 
 I'm a computer scientist here in South America
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=2077)
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atlas-Unory&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Atlas-Unory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Atlas-Unory&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Atlas-Unory&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atlas-Unory&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+
+
+
+
+
 
 <section>
 <div aling="center">
@@ -27,6 +46,12 @@ I'm a computer scientist here in South America
 </div>
 <br>
 <div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=2077)
+<a href="https://github-readme-stats.vercel.app/api?username=Atlas-Unory&theme=radical" target="_blank" rel="noopener noreferrer nofollow"></a>
 </div>
+
+
+
+
 </section>
+
+
