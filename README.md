@@ -41,3 +41,5 @@ I'm a computer scientist here in South America
 
 </div>
 </section>
+
+![Atlas-Unory's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlas-Unory&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
