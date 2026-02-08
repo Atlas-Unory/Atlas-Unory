@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 Hi living beins of this planet! 🙋
 
 I'm a computer scientist here in South America
-<img src="https://raw.githubusercontent.com/Atlas-Unory/Atlas-Unory/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atlas-Unory/Atlas-Unory/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atlas-Unory/Atlas-Unory/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Atlas-Unory/Atlas-Unory/output/pacman-contribution-graph.svg">
+</picture>
