@@ -6,7 +6,10 @@
 Hi 👋, I'm Atlas, a computer scientist in South AmeriI really like to design and create things that didn't exist before I created thEach line of code written or design made gives me a good feeling of duty completed.
 Most of the time, if I'm not working, I'm studying a new technology or refreshing my memory about the ones I already knUnfortunately, my memory isn't unlimited 🥹.
 
-**Fun facts:**🍵 I like tea and dislike coffee🎮 I like video games👺 I love anime and manga
+**Fun facts:**
+1. 🍵 I like tea and dislike coffee
+2. 🎮 I like video games
+3. 👺 I love anime and manga
 
 ## 📊 Statistics about me...
 
@@ -83,7 +86,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
   </div>
 </div>
 
-## 🎒 Languges and techs I want to learn:
+## 🎒 Languges and techs I want to learn
 
 <div align="left">
   1. <img alt="Static Badge" src="https://img.shields.io/badge/Rust-orange?logo=Rust"> <br>
