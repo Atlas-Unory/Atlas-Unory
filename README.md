@@ -19,7 +19,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 
 <!-- 2 Horizontal painel -->
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atlas-Unory&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=tokyonight) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atlas-Unory&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=aura) |
 | :-: | :-: |
 
 <!-- This is another contribution graph
