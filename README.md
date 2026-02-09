@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-### ✨ Quick information about me...
+## ✨ Quick information about me...
 Hi 👋, I'm Atlas, a computer scientist in South America. I really like to design and create things that didn't exist before I created them. Each line of code written or design made gives me a good feeling of duty completed.
 Most of the time, if I'm not working, I'm studying a new technology or refreshing my memory about the ones I already know. Unfortunately, my memory isn't unlimited 🥹.
 
@@ -29,7 +29,9 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 -->
 
 <!-- Japanese typing text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF91F3&width=435&lines=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%A3%E3%81%A6%E9%9D%A2%E7%99%BD%E3%81%84%EF%BC%81;%E5%A4%9C%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E3%81%84%E3%81%84%EF%BC%81;%E3%81%8A%E8%8C%B6%E3%81%AF%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%EF%BC%81)](https://git.io/typing-svg)
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF91F3&width=435&lines=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%A3%E3%81%A6%E9%9D%A2%E7%99%BD%E3%81%84%EF%BC%81;%E5%A4%9C%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E3%81%84%E3%81%84%EF%BC%81;%E3%81%8A%E8%8C%B6%E3%81%AF%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%EF%BC%81" alt="Typing SVG" /></a>
+</div>
 
 <br>
 <!-- Loli visitor counter -->
@@ -87,11 +89,13 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
     <img width="12" />
   </div>
-  | :-: | :-: |
+  <!-- Anime gif -->
   <div align="right">
-    <!-- Anime girl image -->
-    <img height="470" width="12" src="https://imgur.com/c7w6mGG">
+    <img height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ0eTUwdzZ1dXdtdWViaXdrcHpoeDFvNW9oY3I1bWsxN2k3NTB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif"  />
   </div>
 </div>
+
+<!-- Anime gril -->
+[Imgur](https://imgur.com/c7w6mGG)
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8f0f9c&section=footer">
