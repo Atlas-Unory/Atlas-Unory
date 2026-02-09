@@ -86,7 +86,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
   </div>
 </div>
 
-## 🎒 Languges and techs I want to learn
+## 🎒 Languages and techs I want to learn
 
 <div align="left">
   1. <img alt="Static Badge" src="https://img.shields.io/badge/Rust-orange?logo=Rust"> <br>
