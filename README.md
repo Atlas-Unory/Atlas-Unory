@@ -3,13 +3,10 @@
 # Hi there! 👋
 
 ## ✨ Quick information about me...
-Hi 👋, I'm Atlas, a computer scientist in South America. I really like to design and create things that didn't exist before I created them. Each line of code written or design made gives me a good feeling of duty completed.
-Most of the time, if I'm not working, I'm studying a new technology or refreshing my memory about the ones I already know. Unfortunately, my memory isn't unlimited 🥹.
+Hi 👋, I'm Atlas, a computer scientist in South AmeriI really like to design and create things that didn't exist before I created thEach line of code written or design made gives me a good feeling of duty completed.
+Most of the time, if I'm not working, I'm studying a new technology or refreshing my memory about the ones I already knUnfortunately, my memory isn't unlimited 🥹.
 
-**Fun facts:**
-1. 🍵 I like tea and dislike coffee
-2. 🎮 I like video games
-3. 👺 I love anime and manga
+**Fun facts:**🍵 I like tea and dislike coffee🎮 I like video games👺 I love anime and manga
 
 ## 📊 Statistics about me...
 
@@ -27,11 +24,6 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atlas-Unory&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 -->
-
-<!-- Japanese typing text -->
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF91F3&width=435&lines=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%A3%E3%81%A6%E9%9D%A2%E7%99%BD%E3%81%84%EF%BC%81;%E5%A4%9C%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E3%81%84%E3%81%84%EF%BC%81;%E3%81%8A%E8%8C%B6%E3%81%AF%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%EF%BC%81" alt="Typing SVG" /></a>
-</div>
 
 <br>
 <!-- Loli visitor counter -->
@@ -91,20 +83,21 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
   </div>
 </div>
 
+## Languges and techs I want to learn:
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  /> <img width="12" />
+
+<!-- Anime gif -->
 <div align="center">
-  <div>
-    <h3>Languages and techs I want to learn</h3>
-    1. <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-    2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /> <img width="12" />
-    3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  /> <img width="12" />
-    4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  /> <img width="12" />
-    5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  /> <img width="12" />
+  <img height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ0eTUwdzZ1dXdtdWViaXdrcHpoeDFvNW9oY3I1bWsxN2k3NTB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif"  />
 </div>
-  </div>
-  <!-- Anime gif -->
-  <div align="right">
-    <img height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ0eTUwdzZ1dXdtdWViaXdrcHpoeDFvNW9oY3I1bWsxN2k3NTB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif"  />
-  </div>
+
+<!-- Japanese typing text -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF91F3&width=435&lines=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%A3%E3%81%A6%E9%9D%A2%E7%99%BD%E3%81%84%EF%BC%81;%E5%A4%9C%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E3%81%84%E3%81%84%EF%BC%81;%E3%81%8A%E8%8C%B6%E3%81%AF%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%EF%BC%81" alt="Typing SVG" /></a>
 </div>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8f0f9c&section=footer">
