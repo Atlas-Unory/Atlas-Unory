@@ -33,7 +33,9 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
   <img src="https://count.getloli.com/@:Atlas-Unory?theme=booru-lewd&padding=10&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 <center><strong>Thank you all for visiting me</strong></center>
-
+<div align="center">
+  <strong>Thank you all for visiting me</strong>
+</div>
 <br>
 
 ### ⚙️ The languages and tech I know
