@@ -11,7 +11,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 2. 🎮 I like video games
 3. 👺 I love anime and manga
 
-### 📊 Statistics about me...
+## 📊 Statistics about me...
 
 <!-- 1 Horizontal painel -->
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atlas-Unory&theme=tokyonight) |
@@ -41,55 +41,56 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 </div>
 <br>
 
-### ⚙️ The languages and tech I know
+## ⚙️ The languages and tech I know
 
 <!-- Languages and tech that I know -->
 <div align="center">
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-    <img align="left" width="12" />
+    <img width="12" />
   </div>
+  | :-: | :-: |
   <div align="right">
     <!-- Anime girl image -->
-    <img height="470" src="https://imgur.com/c7w6mGG">
+    <img height="470" width="12" src="https://imgur.com/c7w6mGG">
   </div>
 </div>
 
