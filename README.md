@@ -92,7 +92,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 
 <!-- Anime gif -->
 <div align="center">
-  <img height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ0eTUwdzZ1dXdtdWViaXdrcHpoeDFvNW9oY3I1bWsxN2k3NTB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif"  />
+  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzByMWkzMTNjZ3dueXlkMjB6ZHVqeTBrYm1xOXRvYTFzdHlsbnU4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTxF50wnvVaXDU3IJQ/giphy.gif"  />
 </div>
 
 <!-- Japanese typing text -->
