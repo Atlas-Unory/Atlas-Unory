@@ -83,12 +83,15 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
   </div>
 </div>
 
-## Languges and techs I want to learn:
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  /> <img width="12" />
+## 🎒 Languges and techs I want to learn:
+
+<div align="left">
+  1. <img alt="Static Badge" src="https://img.shields.io/badge/Rust-orange?logo=Rust">
+  2. <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B">
+  3. <img alt="Static Badge" src="https://img.shields.io/badge/Lua-blue?logo=Lua">
+  4. <img alt="Static Badge" src="https://img.shields.io/badge/Angular-red?logo=Angular">
+  5. <img alt="Static Badge" src="https://img.shields.io/badge/django-green?logo=django">
+</div>
 
 <!-- Anime gif -->
 <div align="center">
@@ -97,7 +100,9 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 
 <!-- Japanese typing text -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF91F3&width=435&lines=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%A3%E3%81%A6%E9%9D%A2%E7%99%BD%E3%81%84%EF%BC%81;%E5%A4%9C%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E3%81%84%E3%81%84%EF%BC%81;%E3%81%8A%E8%8C%B6%E3%81%AF%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%EF%BC%81" alt="Typing SVG" /></a>
+  <strong color="#bf91f3">コーディングって面白い</strong>
+  <strong color="#bf91f3">夜の遊びは居心地がいい</strong>
+  <strong color="#bf91f3">お茶は美味しい</strong>
 </div>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8f0f9c&section=footer">
