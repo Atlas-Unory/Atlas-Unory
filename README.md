@@ -43,7 +43,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 </div>
 <br>
 
-## ⚙️ The languages and tech I know
+## ⚙️ The languages and techs I know
 
 <!-- Languages and tech that I know -->
 <div align="center">
@@ -89,13 +89,22 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
     <img width="12" />
   </div>
+</div>
+
+<div align="center">
+  <div>
+    <h3>Languages and techs I want to learn</h3>
+    1. <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+    2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /> <img width="12" />
+    3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  /> <img width="12" />
+    4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  /> <img width="12" />
+    5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  /> <img width="12" />
+</div>
+  </div>
   <!-- Anime gif -->
   <div align="right">
     <img height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ0eTUwdzZ1dXdtdWViaXdrcHpoeDFvNW9oY3I1bWsxN2k3NTB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif"  />
   </div>
 </div>
-
-<!-- Anime gril -->
-[Imgur](https://imgur.com/c7w6mGG)
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8f0f9c&section=footer">
