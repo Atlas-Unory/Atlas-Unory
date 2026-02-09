@@ -1,9 +1,6 @@
 # Hi there! 👋
 
-### ✨ Quick information about me...
-
----
-
+## ✨ Quick information about me...
 I'm Atlas, a computer scientist in South America. I really like to design and create things that didn't exist before I created them. Each line of code written or design made gives me a good feeling of duty completed.
 Most of the time, if I'm not working, I'm studying a new technology or refreshing my memory about the ones I already know. Unfortunately, my memory isn't unlimited 🥹.
 
@@ -12,11 +9,9 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 2. 🎮 I like video games
 3. 👺 I love anime and manga
 
-### 📊 Statistics about me...
+## 📊 Statistics about me...
 
----
 <!-- 1 Horizontal painel -->
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atlas-Unory&theme=tokyonight) |
 | :-: | :-: | :-: |
 
@@ -41,9 +36,8 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 </div>
 <br>
 
-### ⚙️ The languages and tech I know
+## ⚙️ The languages and tech I know
 
----
 <!-- Languages and tech that I know -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
