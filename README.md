@@ -103,6 +103,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
   <strong color="#bf91f3">コーディングって面白い</strong>
   <strong color="#bf91f3">夜の遊びは居心地がいい</strong>
   <strong color="#bf91f3">お茶は美味しい</strong>
+  <font color="#bf91f3">お茶は美味しい</font>
 </div>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8f0f9c&section=footer">
