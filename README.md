@@ -14,12 +14,12 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 ## 📊 Statistics about me...
 
 <!-- 1 Horizontal painel -->
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=aura&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atlas-Unory&theme=aura) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=synthwave) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=synthwave&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atlas-Unory&theme=synthwave) |
 | :-: | :-: | :-: |
 
 <!-- 2 Horizontal painel -->
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atlas-Unory&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=aura) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Atlas-Unory&theme=synthwave)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=synthwave) |
 | :-: | :-: |
 
 <!-- This is another contribution graph
