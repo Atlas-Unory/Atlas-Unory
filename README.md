@@ -1,33 +1,44 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Atlas-Unory/Atlas-Unory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Quick information about me...
+I'm Atlas, a computer scientist in South America. I really like to design and create things that didn't exist before I created them. Each line of code written or design made gives me a good feeling of duty completed.
+Most of the time, if I'm not working, I'm studying a new technology or refreshing my memory about the ones I already know. Unfortunately, my memory isn't unlimited 🥹.
 
-Here are some ideas to get you started:
+**Fun facts:**
+1. 🍵 I like tea and dislike coffee
+2. 🎮 I like video games
+3. 👺 I love anime and manga
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hi living beins of this planet! 🛸🙋
-
-I'm a computer scientist here in South America
+### 📊 Statistics about me...
 
 <!-- 1 Horizontal painel -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atlas-Unory&theme=tokyonight) |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atlas-Unory&theme=tokyonight) |
 | :-: | :-: | :-: |
 
 <!-- 2 Horizontal painel -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atlas-Unory&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=tokyonight)
+
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atlas-Unory&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=tokyonight) |
 | :-: | :-: |
 
-## The languges and tech I know
+<!-- This is another contribution graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atlas-Unory&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+-->
+
+<br>
+<!-- Loli visitor counter -->
+<div align="center">
+  <img src="https://count.getloli.com/@:Atlas-Unory?theme=booru-lewd&padding=10&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+<center><strong>Thank you all for visiting me</strong></center>
+
+<br>
+
+### ⚙️ The languages and tech I know
+
+<!-- Languages and tech that I know -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -41,6 +52,8 @@ I'm a computer scientist here in South America
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -53,9 +66,17 @@ I'm a computer scientist here in South America
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
 </div>
