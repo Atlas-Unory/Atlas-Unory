@@ -6,7 +6,7 @@
 Hi 👋, I'm Atlas, a computer scientist in South AmeriI really like to design and create things that didn't exist before I created thEach line of code written or design made gives me a good feeling of duty completed.
 Most of the time, if I'm not working, I'm studying a new technology or refreshing my memory about the ones I already knUnfortunately, my memory isn't unlimited 🥹.
 
-**Fun facts:**
+🎲 **Fun facts:**
 1. 🍵 I like tea and dislike coffee
 2. 🎮 I like video games
 3. 👺 I love anime and manga
