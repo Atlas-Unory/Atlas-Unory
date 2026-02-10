@@ -14,7 +14,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 ## 📊 Statistics about me...
 
 <!-- 1 Horizontal painel -->
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=synthwave) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=synthwave&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atlas-Unory&theme=synthwave) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atlas-Unory&theme=synthwave) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atlas-Unory&theme=synthwave&utcOffset=8) |  |
 | :-: | :-: | :-: |
 
 <!-- 2 Horizontal painel -->
