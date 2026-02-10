@@ -19,7 +19,7 @@ Most of the time, if I'm not working, I'm studying a new technology or refreshin
 
 <!-- 2 Horizontal painel -->
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=Atlas-Unory&theme=synthwave)](https://git.io/streak-stats) |  |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Atlas-Unory&theme=synthwave)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atlas-Unory&theme=synthwave) |
 | :-: | :-: |
 
 <!-- This is another contribution graph
